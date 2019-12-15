@@ -5,7 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="./dayOne/rocketFuelRequirements.fs" />
+    <Compile Include="./**/*.fs" />
+    <Compile Include="./scratchpad.fsx" />
   </ItemGroup>
 
 </Project>
